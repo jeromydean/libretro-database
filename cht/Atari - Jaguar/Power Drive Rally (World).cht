@@ -1,4 +1,4 @@
-cheats = 9
+cheats = 10
 
 cheat0_desc = "Infinite Money"
 cheat0_code = "0000D976:000F423F"
@@ -35,3 +35,7 @@ cheat7_enable = false
 cheat8_desc = "Perfect Lights"
 cheat8_code = "00006475:00"
 cheat8_enable = false
+
+cheat9_desc = "Start Final Race #32 (32=0x21, edit for level select)"
+cheat9_code = "000064A9:21"
+cheat9_enable = false
